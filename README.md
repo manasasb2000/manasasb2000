@@ -1,16 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,28,45&height=230&section=header&text=Manasa%20Samaga&fontSize=52&fontColor=F3E8FF&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Manasa%20Samaga&fontSize=54&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Multi-Agent+Architect;Voice+AI+%26+Context+Engineering+Specialist;Building+Autonomous+AI+Systems+that+Solve+Real+Problems;Transforming+Human+Ideas+into+Intelligent+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Multi-Agent+Architect;Voice+AI+%26+Context+Engineering+Specialist;REVA+University+Topper+(9.1+CGPA);Building+Next-Gen+Autonomous+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://sarvam-native.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://sarvam-native.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/manasasb17"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/manasasamaga"><img src="https://img.shields.io/badge/Instagram-@manasasamaga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://x.com/ManasaSamaga"><img src="https://img.shields.io/badge/Twitter-@ManasaSamaga-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="mailto:manasaworkbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-C084FC?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manasaworkbusiness@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
@@ -19,54 +20,63 @@
 
 ---
 
-## 💜 About Me
+## 🌟 About Me & Education
 
 <table>
   <tr>
-    <td width="70%" valign="top">
-      <h3>✨ Hello World! I'm <font color="#C084FC">Manasa Samaga</font> 👋</h3>
-      <p>I am a passionate <b>AI Engineer</b> dedicated to designing and shipping intelligent, autonomous AI systems that solve real customer problems.</p>
-      <p>Currently at <b>CRED</b>, I build multi-agent state machines, context engineering frameworks for Large Language Models (LLMs), real-time multilingual voice agents, and model context protocols (MCP). My focus is turning cutting-edge AI research into production-grade applications with zero hallucination, strict policy compliance, and high performance.</p>
+    <td width="65%" valign="top">
+      <h3>✨ Hello World! I'm <font color="#00F0FF">Manasa Samaga</font> 👋</h3>
+      <p>I am a passionate <b>AI Engineer</b> dedicated to building high-impact, autonomous AI systems that solve complex customer problems.</p>
+      <p>Currently at <b>CRED</b>, I specialize in designing multi-agent state machines, LLM context engineering frameworks, real-time code-mixed voice agents, and developer tooling (like Model Context Protocol servers).</p>
+      
+      <table width="100%">
+        <tr>
+          <td style="background-color: #121826; border-left: 4px solid #FFD700; padding: 10px; border-radius: 6px;">
+            🎓 <b>Education</b>: Graduated from <b>REVA University</b><br/>
+            🏆 <b>Achievement</b>: <b>Class Topper — 9.1 CGPA</b>
+          </td>
+        </tr>
+      </table>
       <br/>
       <blockquote align="center">
-        💡 <i><font color="#D8BFD8">"Transforming complex human challenges into intelligent, seamless autonomous systems. The best way to predict the future is to engineer it!"</font> 🚀</i>
+        💡 <i><font color="#FF70A6">"Transforming complex human challenges into intelligent, seamless autonomous systems. The best way to predict the future is to engineer it!"</font> 🚀</i>
       </blockquote>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3ZXF4aGgwbHZ2bWpkaXRzZHkzbTJvOTRzcWc2bndwbmZkbnR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VAcEPKz/giphy.gif" width="100%" style="border-radius:12px;" alt="AI GIF" />
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3ZXF4aGgwbHZ2bWpkaXRzZHkzbTJvOTRzcWc2bndwbmZkbnR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VAcEPKz/giphy.gif" width="100%" style="border-radius:14px; border: 2px solid #00F0FF;" alt="AI Animation" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ AI Technical Stack & Skills Matrix
+## 🛠️ AI Technical Stack & Capabilities
 
 <div align="center">
   <table>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">🧠 <font color="#C084FC">GenAI & Agent Architecture</font></h4>
+        <h4 align="center">🤖 <font color="#00F0FF">GenAI & Agent Architecture</font></h4>
         <p align="center">
-          <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-8B5CF6?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/LangChain-Orchestration-A855F7?style=flat-square" />
-          <img src="https://img.shields.io/badge/Context_Engineering-XML_Pillars-C084FC?style=flat-square" />
-          <img src="https://img.shields.io/badge/RAG-Grounded_Knowledge-E9D5FF?style=flat-square&logoColor=black" />
-          <img src="https://img.shields.io/badge/JSON_Schema-Function_Calling-7E22CE?style=flat-square" />
+          <img src="https://img.shields.io/badge/LangGraph-Stateful_Agents-FF70A6?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/LangChain-Orchestration-00E676?style=flat-square" />
+          <img src="https://img.shields.io/badge/Context_Engineering-XML_Pillars-FFD700?style=flat-square" />
+          <img src="https://img.shields.io/badge/RAG-Grounded_Knowledge-00F0FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/JSON_Schema-Function_Calling-FF1744?style=flat-square" />
         </p>
         <ul>
-          <li><b>Multi-Agent Orchestration</b>: LangGraph state machines & supervisor nodes.</li>
+          <li><b>Multi-Agent Orchestration</b>: LangGraph state machines & supervisor node routing.</li>
           <li><b>Context Engineering</b>: XML structuring, semantic pruning, token budgeting.</li>
           <li><b>Grounded RAG</b>: Vector similarity search with pgvector & strict guardrails.</li>
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">🎙️ <font color="#C084FC">Voice AI & Multilingual NLP</font></h4>
+        <h4 align="center">🎙️ <font color="#FF70A6">Voice AI & Multilingual Speech</font></h4>
         <p align="center">
-          <img src="https://img.shields.io/badge/Saaras_STT-Code_Mixed-8B5CF6?style=flat-square" />
-          <img src="https://img.shields.io/badge/Bulbul_TTS-Streaming_Audio-A855F7?style=flat-square" />
-          <img src="https://img.shields.io/badge/Sarvam_AI-Indic_Models-C084FC?style=flat-square" />
-          <img src="https://img.shields.io/badge/Barge_In-Real_Time_Voice-E9D5FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/Saaras_STT-Code_Mixed-00F0FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/Bulbul_TTS-Streaming_Audio-FFD700?style=flat-square" />
+          <img src="https://img.shields.io/badge/Sarvam_AI-Indic_Models-00E676?style=flat-square" />
+          <img src="https://img.shields.io/badge/Barge_In-Real_Time_Voice-FF1744?style=flat-square" />
         </p>
         <ul>
           <li><b>Code-Mixed Voice Agents</b>: Turn-taking STT → RAG → LLM → TTS pipelines.</li>
@@ -77,11 +87,11 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">🔌 <font color="#C084FC">Developer Protocols & Telemetry</font></h4>
+        <h4 align="center">🔌 <font color="#00E676">Developer Protocols & Telemetry</font></h4>
         <p align="center">
-          <img src="https://img.shields.io/badge/Model_Context_Protocol-FastMCP-8B5CF6?style=flat-square" />
-          <img src="https://img.shields.io/badge/OpenTelemetry-Cost_%26_Latency-A855F7?style=flat-square" />
-          <img src="https://img.shields.io/badge/GAQL_Engine-Query_Parser-C084FC?style=flat-square" />
+          <img src="https://img.shields.io/badge/Model_Context_Protocol-FastMCP-FFD700?style=flat-square" />
+          <img src="https://img.shields.io/badge/OpenTelemetry-Cost_%26_Latency-00F0FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/GAQL_Engine-Query_Parser-FF70A6?style=flat-square" />
         </p>
         <ul>
           <li><b>MCP Servers</b>: FastMCP over stdio & streamable-HTTP.</li>
@@ -90,11 +100,11 @@
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">🧠 <font color="#C084FC">Deep Learning & ML</font></h4>
+        <h4 align="center">🧠 <font color="#FFD700">Deep Learning & ML</font></h4>
         <p align="center">
-          <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-8B5CF6?style=flat-square&logo=pytorch&logoColor=white" />
-          <img src="https://img.shields.io/badge/GANs-Generative_Models-A855F7?style=flat-square" />
-          <img src="https://img.shields.io/badge/CNN-Computer_Vision-C084FC?style=flat-square" />
+          <img src="https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+          <img src="https://img.shields.io/badge/GANs-Generative_Models-00F0FF?style=flat-square" />
+          <img src="https://img.shields.io/badge/CNN-Computer_Vision-FF70A6?style=flat-square" />
         </p>
         <ul>
           <li><b>Generative Models</b>: GAN architectures & synthetic data generation.</li>
@@ -105,12 +115,12 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">⚙️ <font color="#C084FC">Backend & Systems</font></h4>
+        <h4 align="center">⚙️ <font color="#FF1744">Backend & Systems</font></h4>
         <p align="center">
-          <img src="https://img.shields.io/badge/Python_3.12-FastAPI-8B5CF6?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-pgvector-A855F7?style=flat-square&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Redis-Kafka-C084FC?style=flat-square&logo=redis&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-Containers-7E22CE?style=flat-square&logo=docker&logoColor=white" />
+          <img src="https://img.shields.io/badge/Python_3.12-FastAPI-00F0FF?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/PostgreSQL-pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redis-Kafka-DC382D?style=flat-square&logo=redis&logoColor=white" />
+          <img src="https://img.shields.io/badge/Docker-Containers-2496ED?style=flat-square&logo=docker&logoColor=white" />
         </p>
         <ul>
           <li><b>Async Backend</b>: FastAPI, Pydantic v2, WebSockets.</li>
@@ -119,15 +129,15 @@
         </ul>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">🎨 <font color="#C084FC">Fullstack & UI Architecture</font></h4>
+        <h4 align="center">🎨 <font color="#29B6F6">Fullstack & UI Architecture</font></h4>
         <p align="center">
-          <img src="https://img.shields.io/badge/Next.js_16-React_19-8B5CF6?style=flat-square&logo=next.js&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript_5-Vite-A855F7?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-Glassmorphism-C084FC?style=flat-square&logo=tailwindcss&logoColor=white" />
+          <img src="https://img.shields.io/badge/Next.js_16-React_19-000000?style=flat-square&logo=next.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript_5-Vite-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-Glassmorphism-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
         </p>
         <ul>
           <li><b>Frontend Control Centers</b>: Next.js App Router & React 19.</li>
-          <li><b>Design System</b>: Modern Glassmorphism & HSL Lavender styling.</li>
+          <li><b>Design System</b>: Modern Glassmorphism & custom vibrant UI.</li>
           <li><b>Data Visualization</b>: Recharts analytics charts & streaming UI.</li>
         </ul>
       </td>
@@ -142,26 +152,26 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎯 <a href="https://github.com/manasasb2000/AdsIQ"><font color="#C084FC">AdsIQ</font></a></h3>
+      <h3 align="center">🎯 <a href="https://github.com/manasasb2000/AdsIQ"><font color="#00F0FF">AdsIQ</font></a></h3>
       <p align="center"><b>AI-Powered Google Ads API Intelligence Platform</b></p>
       <p>Multi-agent operational control plane built with a <b>LangGraph State Machine</b> to automate error troubleshooting, campaign hierarchy construction, GAQL query execution, and RSA creative copy generation.</p>
       <p>
-        <img src="https://img.shields.io/badge/LangGraph-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/FastAPI-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Next.js_14-C084FC?style=flat-square" />
-        <img src="https://img.shields.io/badge/PostgreSQL-E9D5FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/LangGraph-FF70A6?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastAPI-00E676?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js_14-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/PostgreSQL-FFD700?style=flat-square" />
       </p>
       <p align="center"><a href="https://github.com/manasasb2000/AdsIQ"><b>🔗 View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🎙️ <a href="https://github.com/manasasb2000/vaani-voice-agent"><font color="#C084FC">Vaani Voice Agent</font></a></h3>
+      <h3 align="center">🎙️ <a href="https://github.com/manasasb2000/vaani-voice-agent"><font color="#FF70A6">Vaani Voice Agent</font></a></h3>
       <p align="center"><b>Real-Time Multilingual Voice Agent for BFSI</b></p>
       <p>Code-mixed voice agent for BFSI servicing and collections. Features Saaras STT → Sarvam-105B grounded RAG & tool-calling → Bulbul streaming TTS with barge-in, PII redaction & evals harness.</p>
       <p>
-        <img src="https://img.shields.io/badge/Sarvam_AI-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/Setu_MCP-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Kafka-C084FC?style=flat-square" />
-        <img src="https://img.shields.io/badge/pgvector-E9D5FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Sarvam_AI-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Setu_MCP-FFD700?style=flat-square" />
+        <img src="https://img.shields.io/badge/Kafka-00E676?style=flat-square" />
+        <img src="https://img.shields.io/badge/pgvector-FF70A6?style=flat-square" />
       </p>
       <p align="center">
         <a href="https://github.com/manasasb2000/vaani-voice-agent"><b>🔗 Code</b></a> · 
@@ -171,38 +181,38 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">⚡ <a href="https://github.com/manasasb2000/context-engineering-studio"><font color="#C084FC">Context Engineering Studio</font></a></h3>
+      <h3 align="center">⚡ <a href="https://github.com/manasasb2000/context-engineering-studio"><font color="#00E676">Context Engineering Studio</font></a></h3>
       <p align="center"><b>LLM Context Architecture & Masterclass</b></p>
       <p>Interactive web application and educational studio for mastering <b>Context Engineering</b> for LLMs using Google Gemini API (`gemini-2.5-flash` / `gemini-2.5-pro`) covering 7 core architecture pillars.</p>
       <p>
-        <img src="https://img.shields.io/badge/Google_Gemini-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/React_19-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/TypeScript-C084FC?style=flat-square" />
-        <img src="https://img.shields.io/badge/Vite-E9D5FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Google_Gemini-FFD700?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_19-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/TypeScript-FF70A6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vite-00E676?style=flat-square" />
       </p>
       <p align="center"><a href="https://github.com/manasasb2000/context-engineering-studio"><b>🔗 View Repository →</b></a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔌 <a href="https://github.com/manasasb2000/setu-mcp"><font color="#C084FC">Setu MCP Server</font></a></h3>
+      <h3 align="center">🔌 <a href="https://github.com/manasasb2000/setu-mcp"><font color="#FFD700">Setu MCP Server</font></a></h3>
       <p align="center"><b>Model Context Protocol Server for Sarvam AI</b></p>
       <p>Production-ready MCP server bringing Sarvam speech, translation, LLM chat, and doc parsing tools to agentic systems. Features stdio/HTTP transports, OTel telemetry, and INR cost tracking.</p>
       <p>
-        <img src="https://img.shields.io/badge/FastMCP-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenTelemetry-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/PyPI-C084FC?style=flat-square" />
+        <img src="https://img.shields.io/badge/FastMCP-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenTelemetry-FF70A6?style=flat-square" />
+        <img src="https://img.shields.io/badge/PyPI-00E676?style=flat-square" />
       </p>
       <p align="center"><a href="https://github.com/manasasb2000/setu-mcp"><b>🔗 View Repository →</b></a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 <a href="https://github.com/manasasb2000/rolloutAI"><font color="#C084FC">RolloutAI</font></a></h3>
+      <h3 align="center">🚀 <a href="https://github.com/manasasb2000/rolloutAI"><font color="#FF1744">RolloutAI</font></a></h3>
       <p align="center"><b>Enterprise AI Tool Governance SaaS</b></p>
       <p>Enterprise SaaS platform helping engineering organizations plan and execute AI tool rollouts (Copilot/Cursor) with readiness assessments, ROI calculators, and risk analysis.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js_16-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/React_19-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Tailwind_v4-C084FC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Next.js_16-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/React_19-FF70A6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Tailwind_v4-FFD700?style=flat-square" />
       </p>
       <p align="center">
         <a href="https://github.com/manasasb2000/rolloutAI"><b>🔗 Code</b></a> · 
@@ -210,13 +220,13 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 <a href="https://github.com/manasasb2000/github_agentic_workflow"><font color="#C084FC">Agentic GitHub Workflow</font></a></h3>
+      <h3 align="center">🤖 <a href="https://github.com/manasasb2000/github_agentic_workflow"><font color="#29B6F6">Agentic GitHub Workflow</font></a></h3>
       <p align="center"><b>Autonomous AI Workflow Engine</b></p>
       <p>Autonomous agentic workflow engine for GitHub repository automation, CI/CD code inspection, and multi-step task execution.</p>
       <p>
-        <img src="https://img.shields.io/badge/Agents-8B5CF6?style=flat-square" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-A855F7?style=flat-square" />
-        <img src="https://img.shields.io/badge/Python-C084FC?style=flat-square" />
+        <img src="https://img.shields.io/badge/Agents-00E676?style=flat-square" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-FF70A6?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-00F0FF?style=flat-square" />
       </p>
       <p align="center"><a href="https://github.com/manasasb2000/github_agentic_workflow"><b>🔗 View Repository →</b></a></p>
     </td>
@@ -225,53 +235,108 @@
 
 ---
 
-## 📊 GitHub Analytics & Lavender Stats
+## 🌐 Open Source Contributions & Community
+
+<table width="100%">
+  <tr>
+    <td style="background-color: #0D1117; border: 2px solid #00F0FF; border-radius: 12px; padding: 18px;">
+      <h3 align="center">🚀 <font color="#00F0FF">Open Source Ecosystem & Contributions</font></h3>
+      <p>I actively build and maintain open-source developer tooling, agentic protocols, and evaluation harnesses to empower the AI community:</p>
+      <ul>
+        <li>📦 <b>PyPI Package Release — <code>setu-mcp</code></b>: Published an open-source Model Context Protocol (MCP) server for Sarvam AI models with OpenTelemetry tracing and cost estimation middleware.</li>
+        <li>🎙️ <b>Multilingual Voice Agent Benchmarks</b>: Released open-source evaluation harnesses measuring WER, tool-calling accuracy, p50/p95 latency budgets, and cost metrics for Indic voice AI.</li>
+        <li>⚡ <b>LLM Context Architecture Masterclass</b>: Built open-source interactive learning tools for Gemini 2.5 Flash/Pro context engineering & zero-hallucination RAG injection.</li>
+        <li>🤖 <b>GitHub Agentic Workflows</b>: Created open frameworks for integrating autonomous AI agents into automated CI/CD pipelines.</li>
+      </ul>
+      <p align="center">
+        <img src="https://img.shields.io/github/stars/manasasb2000/setu-mcp?style=social" />
+        <img src="https://img.shields.io/github/stars/manasasb2000/AdsIQ?style=social" />
+        <img src="https://img.shields.io/github/stars/manasasb2000/vaani-voice-agent?style=social" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Research & Technical Publications
+
+<table width="100%">
+  <tr>
+    <td style="background-color: #0D1117; border: 2px solid #FF70A6; border-radius: 12px; padding: 18px;">
+      <h3 align="center">📖 <font color="#FF70A6">Research Papers & Technical Case Studies</font></h3>
+      <p>My research and technical writing focus on multi-agent state management, grounded retrieval, speech processing, and deep learning architectures:</p>
+      
+      <h4>📄 1. Stateful Multi-Agent System Architectures for API Control Planes</h4>
+      <p><i>Explores graph-based state routing with LangGraph to orchestrate domain-specific agents for complex API troubleshooting, query parsing, and code generation.</i></p>
+      
+      <h4>📄 2. Real-Time Code-Mixed Voice Agent Engineering in BFSI</h4>
+      <p><i>Investigates latency budgets, confidence-based human-in-the-loop fallback mechanisms, and groundedness evaluation for multilingual speech systems.</i></p>
+      
+      <h4>📄 3. Context Engineering vs. Prompt Engineering: Optimizing Attention & Token Budgets</h4>
+      <p><i>Analyzes structural XML context encapsulation, semantic chunk pruning, and token budget management for zero-hallucination LLM grounding.</i></p>
+      
+      <h4>📄 4. Deep Learning Applications: CNN-Based Age & Gender Prediction & GANs</h4>
+      <p><i>Research in computer vision neural network architectures and generative adversarial networks for synthetic dataset creation.</i></p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Dynamic GitHub Analytics & Animations
 
 <div align="center">
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=manasasb2000&show_icons=true&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&bg_color=191528&border_color=8b5cf6&count_private=true" height="175" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=manasasb2000&show_icons=true&title_color=00f0ff&text_color=ffffff&icon_color=ff70a6&bg_color=0d1117&border_color=00f0ff&count_private=true" height="175" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasasb2000&layout=compact&title_color=c084fc&text_color=e9d5ff&icon_color=a855f7&bg_color=191528&border_color=8b5cf6&hide=html" height="175" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasasb2000&layout=compact&title_color=00f0ff&text_color=ffffff&icon_color=ff70a6&bg_color=0d1117&border_color=00f0ff&hide=html" height="175" alt="Top Languages" />
       </td>
     </tr>
   </table>
 
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasasb2000&theme=tokyonight&background=191528&border=8b5cf6&stroke=8b5cf6&ring=c084fc&fire=a855f7&currStreakLabel=c084fc" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manasasb2000&theme=radical&background=0d1117&border=ff70a6&stroke=ff70a6&ring=00f0ff&fire=ff70a6" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🌐 Connect & Collaborate
+## 🌐 Connect & Touchpoints
 
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <a href="https://sarvam-native.netlify.app">
-          <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-A855F7?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Portfolio-Live%20Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white" /><br/>
           <sub><b>sarvam-native.netlify.app</b></sub>
         </a>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <a href="https://www.linkedin.com/in/manasasb17">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /><br/>
           <sub><b>in/manasasb17</b></sub>
         </a>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
+        <a href="https://instagram.com/manasasamaga">
+          <img src="https://img.shields.io/badge/Instagram-@manasasamaga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /><br/>
+          <sub><b>@manasasamaga</b></sub>
+        </a>
+      </td>
+      <td align="center" width="20%">
         <a href="https://x.com/ManasaSamaga">
           <img src="https://img.shields.io/badge/Twitter-@ManasaSamaga-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /><br/>
           <sub><b>@ManasaSamaga</b></sub>
         </a>
       </td>
-      <td align="center" width="25%">
+      <td align="center" width="20%">
         <a href="mailto:manasaworkbusiness@gmail.com">
-          <img src="https://img.shields.io/badge/Email-Contact%20Me-C084FC?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
+          <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /><br/>
           <sub><b>manasaworkbusiness@gmail.com</b></sub>
         </a>
       </td>
@@ -285,4 +350,4 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-db034080-a473-11eb-812d-d0059cfd5097.gif" width="100%" />
 </p>
 
-<p align="center"><i>Made with 💜 by <b>Manasa Samaga</b> · AI Engineer</i></p>
+<p align="center"><i>Made with ❤️ & ⚡ by <b>Manasa Samaga</b> · AI Engineer</i></p>
