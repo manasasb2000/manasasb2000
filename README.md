@@ -22,31 +22,20 @@
 
 ## 🌟 About Me & Education
 
-<table>
-  <tr>
-    <td width="65%" valign="top">
-      <h3>✨ Hello World! I'm <font color="#00F0FF">Manasa Samaga</font> 👋</h3>
-      <p>I am a passionate <b>AI Engineer</b> dedicated to building high-impact, autonomous AI systems that solve complex customer problems.</p>
-      <p>Currently at <b>CRED</b>, I specialize in designing multi-agent state machines, LLM context engineering frameworks, real-time code-mixed voice agents, and developer tooling (like Model Context Protocol servers).</p>
-      
-      <table width="100%">
-        <tr>
-          <td style="background-color: #0F172A; border-left: 4px solid #FFD700; padding: 10px; border-radius: 6px;">
-            🎓 <b>Education</b>: Graduated from <b>REVA University</b><br/>
-            🏆 <b>Achievement</b>: <b>Class Topper — 9.1 CGPA</b>
-          </td>
-        </tr>
-      </table>
-      <br/>
-      <blockquote align="center">
-        💡 <i><font color="#FF70A6">"Transforming complex human challenges into intelligent, seamless autonomous systems. The best way to predict the future is to engineer it!"</font> 🚀</i>
-      </blockquote>
-    </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHc3ZXF4aGgwbHZ2bWpkaXRzZHkzbTJvOTRzcWc2bndwbmZkbnR5NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4VAcEPKz/giphy.gif" width="100%" style="border-radius:14px; border: 2px solid #00F0FF;" alt="AI Animation" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/Role-AI%20Engineer%20%40%20CRED-00F0FF?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Education-REVA%20University-2088FF?style=for-the-badge&logo=academic-cap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Achievement-Class%20Topper%20%7C%209.1%20CGPA-FFD700?style=for-the-badge&logo=trophy&logoColor=black" />
+</p>
+
+> [!NOTE]
+> ### 👋 Hi, I'm **Manasa Samaga**!
+> I am a passionate **AI Engineer** dedicated to building high-impact, autonomous AI systems that solve complex customer problems. Currently at **CRED**, I specialize in designing multi-agent state machines, LLM context engineering frameworks, real-time code-mixed voice agents, and developer tooling (like Model Context Protocol servers).
+
+> [!IMPORTANT]
+> 🎓 **Academic Excellence**: Graduated as the **Class Topper** from **REVA University** with a **9.1 CGPA**.
+
+> 💡 *"Transforming complex human challenges into intelligent, seamless autonomous systems. The best way to predict the future is to engineer it!"* 🚀
 
 ---
 
