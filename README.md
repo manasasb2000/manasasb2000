@@ -50,6 +50,67 @@
 
 ---
 
+## 🎮 Interactive Zone & Mini Games
+
+<table width="100%">
+  <tr>
+    <td style="background-color: #120e1e; border: 2px solid #8B5CF6; border-radius: 12px; padding: 20px;">
+      <h3 align="center">🕹️ <font color="#C084FC">Visitor Interactive Playground</font></h3>
+      <p align="center"><i>Take a break and test your AI Engineering knowledge before exploring my projects!</i></p>
+
+      <details>
+        <summary><b>🎯 Challenge #1: The Voice AI Agent Dilemma</b> (Click to Expand)</summary>
+        <br/>
+        <p><b>Question:</b> You need a real-time, code-mixed voice agent for financial collections that must never hallucinate loan details and must handle customer barge-ins. What architecture do you use?</p>
+        <blockquote style="background-color: #1c162e; padding: 10px; border-radius: 8px;">
+          💡 <b>Answer:</b> Saaras STT → Sarvam-105B with Grounded RAG → Bulbul TTS, wrapped in Pydantic schema validators & confidence-based human-in-the-loop escalation! <i>(Implemented in <b>Vaani Voice Agent</b>!)</i>
+        </blockquote>
+      </details>
+
+      <details>
+        <summary><b>⚡ Challenge #2: API Error Troubleshooting at Scale</b> (Click to Expand)</summary>
+        <br/>
+        <p><b>Question:</b> How do you automatically diagnose 50+ Google Ads API error codes and stream code fixes in real-time over WebSockets?</p>
+        <blockquote style="background-color: #1c162e; padding: 10px; border-radius: 8px;">
+          💡 <b>Answer:</b> Use a stateful <b>LangGraph State Machine</b> routing tasks between specialized agents (Troubleshooter, GAQL Analytics, RSA Creative Studio) connected to a Next.js control center! <i>(Implemented in <b>AdsIQ</b>!)</i>
+        </blockquote>
+      </details>
+
+      <details>
+        <summary><b>🔌 Challenge #3: Connecting Local AI Agents to Claude Desktop</b> (Click to Expand)</summary>
+        <br/>
+        <p><b>Question:</b> What protocol allows Claude Desktop or IDE agents to seamlessly trigger Sarvam speech and translation APIs with live cost telemetry?</p>
+        <blockquote style="background-color: #1c162e; padding: 10px; border-radius: 8px;">
+          💡 <b>Answer:</b> <b>Model Context Protocol (MCP)</b> served via FastMCP over stdio/HTTP with OpenTelemetry middleware! <i>(Implemented in <b>Setu MCP</b>!)</i>
+        </blockquote>
+      </details>
+
+      <br/>
+
+      <div align="center">
+        <a href="https://sarvam-native.netlify.app">
+          <img src="https://img.shields.io/badge/🎮_Launch_Interactive_Cursor_Gradient_Demo-Live-A855F7?style=for-the-badge&logo=react&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <p><b>🐍 Watch the Contribution Snake Eat My Activity Pixels!</b></p>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula&bgColor=120e1e&borderColor=8b5cf6&strokeColor=c084fc&textColor=e9d5ff" alt="Dev Joke" />
+</div>
+
+---
+
 ## 🛠️ AI Technical Stack & Capabilities
 
 <div align="center">
