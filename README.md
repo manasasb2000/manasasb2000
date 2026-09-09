@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Multi-Agent+Architect;Voice+AI+%26+Context+Engineering+Specialist;REVA+University+Topper+(9.1+CGPA);Building+Next-Gen+Autonomous+AI+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=750&lines=AI+Engineer+%7C+Multi-Agent+Architect;Voice+AI+%26+Context+Engineering+Specialist;Building+Next-Gen+Autonomous+AI+Systems" alt="Typing SVG" />
 </p>
 
 <p align="center">
